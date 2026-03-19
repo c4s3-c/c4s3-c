@@ -22,10 +22,7 @@
  
 ```bash
 $ whoami
-> red_team_operator | pentester | aprendiz eterno de la oscuridad
-$ uname -a
-> Kali Linux x86_64 — always-on recon mode
-$ cat /etc/mission
-> Break things. Fix things. Report things. Repeat.
+> red_team_operator | pentester 
+
 ```
  
