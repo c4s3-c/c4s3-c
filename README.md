@@ -14,7 +14,7 @@
 *// Acceso autorizado. Bienvenido al otro lado.*
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Red+Team+Operator+%7C+Penetration+Tester;Offensive+Security+%7C+Network+Exploitation;%22Hack+the+planet%22+—+pero+con+scope;CVE+hunter+%7C+0day+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Red+Team+Operator+%7C+Penetration+Tester;Offensive+Security+%7C+Network+Exploitation;%22%22+—+pero+con+scope;CVE+hunter+%7C+0day+enthusiast)](https://git.io/typing-svg)
  
 </div>
  
